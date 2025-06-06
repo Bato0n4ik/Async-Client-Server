@@ -1,0 +1,35 @@
+{
+  "client": {
+    "name": "Andrey",
+    "address": "unknown",
+    "company" : "Saint-Petersburg Aerospace technology"
+  },
+  "project" : {
+    "budget" : "50 cent",
+    "name": "messenger",
+    "date end": "undefined"
+  },
+  "data map" : {
+    "one" : [
+      {
+        "content-type" : "application/json",
+        "cookie" : "hide",
+        "cash level" : "application"
+      },
+
+      {
+        "content-type" : "application/html",
+        "cookie" : "public",
+        "cash level" : "request"
+      }
+    ],
+    "two" : [
+      {
+        "content-type" : "application/html",
+        "cookie" : "hide",
+        "cash level" : "request"
+      }
+    ]
+  }
+
+}
